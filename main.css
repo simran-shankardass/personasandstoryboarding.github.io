@@ -4,3 +4,17 @@ h1 {
     font-size: 30px;
     color: purple;
 }
+
+#storyboard {
+    size: 100px;
+}
+
+#storyboard-element {
+    size: 150px;
+}
+
+#storyboard-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
