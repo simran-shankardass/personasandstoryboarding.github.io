@@ -1,37 +1,27 @@
 body {
     margin-left: 30px;
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, sans-serif;
 }
 
-h1 {
-    color: purple;
-}
-
-h2 {
-    color: purple;
-}
-
-h3 {
-    color: purple;
-}
-
-h4 {
+h1, h2, h3, h4 {
     color: purple;
 }
 
 .sketch-wrapper {
+    display: flex;
+    justify-content: center;
     margin: 5px;
 }
 
 .personas-wrapper {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .persona-element {
     display: flex;
     align-items: center;
-    justify-content: center;
     margin: 10px, 50px;
     width: 500px;
     height: 500px;
@@ -40,24 +30,12 @@ h4 {
 .storyboard-wrapper {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .storyboard-element {
+    display: flex;
+    align-items: center;
     margin: 10px, 50px;
-    width: 400px;
-    height: 400px;
-}
-
-.sticky-nav {
-    position: relative;
-    top: 0px;
-    z-index: 100;
-    margin-top: 240px;
-    padding: 20px;
-    background-color: hsla(0, 0%, 100%, 0);
-    box-shadow: 1px 1px 6px 0 #3a3a3a;
-}
-
-header {
-    display: block;
+    width: 300px;
 }
