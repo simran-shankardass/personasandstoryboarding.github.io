@@ -1,29 +1,4 @@
-title {
-    font-family: Helvetica, sans-serif;
-    color: indigo;
-}
 
-body {
-    font-family: Helvetica, sans-serif;
-    color: black;
-}
-
-h1 {
-    font-size: 30px;
-    color: indigo;
-}
-
-h2 {
-    color: indigo;
-}
-
-h3 {
-    color: indigo;
-}
-
-h4 {
-    color: indigo;
-} 
 
 .personas-wrapper {
     display: flex;
@@ -32,6 +7,8 @@ h4 {
 }
 
 .persona-element {
+    width: 500px;
+    height: 500px;
 }
 
 .empathy-map {
@@ -44,9 +21,9 @@ h4 {
 }
 
 storyboard-element {
-    margin: 5px;
+   width: 400px;
+   height: 400px;
 }
 
 .storyboard-image {
-    margin: 5px;
 }
