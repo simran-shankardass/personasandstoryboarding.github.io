@@ -5,11 +5,11 @@ h1 {
     color: purple;
 }
 
-#storyboard-element {
-    padding: 50rem;
+.storyboard-element {
+    margin: 50rem;
 }
 
-#storyboard-wrapper {
+.storyboard-wrapper {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
