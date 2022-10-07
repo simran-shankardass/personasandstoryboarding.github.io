@@ -18,13 +18,13 @@ h1 {
 
 .persona-element {
     margin: 50rem;
-    width: 500rem;
-    height: 500rem;
+    width: 500px;
+    height: 500px;
 }
 
 .empathy-map {
-    width: 500rem;
-    height: 500rem;
+    width: 500px;
+    height: 500px;
 }
 
 .storyboard-wrapper {
@@ -35,11 +35,11 @@ h1 {
 
 storyboard-element {
     margin: 50rem;
-    width: 400rem;
-    height: 400rem;
+    width: 400px;
+    height: 400px;
 }
 
 .storyboard-image {
-    width: 400rem;
-    height: 400rem;
+    width: 400px;
+    height: 400px;
 }
