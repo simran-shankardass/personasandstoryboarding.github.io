@@ -6,8 +6,7 @@ h1 {
 }
 
 #storyboard-element {
-    width: 100px;
-    height: 100px;
+    padding: 50rem;
 }
 
 #storyboard-wrapper {
