@@ -1,27 +1,27 @@
-title {
-    font-family: Helvetica, sans-serif;
-    color: rebeccapurple;
+head {
+    font-family: Arial, sans-serif;
+    color: black;
 }
 
 body {
     margin-left: 30px;
-    font-family: Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 h1 {
-    color: rebeccapurple;
+    color: purple;
 }
 
 h2 {
-    color: rebeccapurple;
+    color: purple;
 }
 
 h3 {
-    color: rebeccapurple;
+    color: purple;
 }
 
 h4 {
-    color: rebeccapurple;
+    color: purple;
 }
 
 .sketch-wrapper {
@@ -34,7 +34,10 @@ h4 {
 }
 
 .persona-element {
-    margin: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px, 50px;
     width: 500px;
     height: 500px;
 }
@@ -45,7 +48,7 @@ h4 {
 }
 
 .storyboard-element {
-    margin: 70px;
+    margin: 10px, 50px;
     width: 400px;
     height: 400px;
 }
