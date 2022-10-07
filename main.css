@@ -1,6 +1,6 @@
 body {
-    margin-left: 30px;
     font-family: Montserrat, sans-serif;
+    color: black;
 }
 
 h1, h2, h3, h4 {
@@ -10,18 +10,21 @@ h1, h2, h3, h4 {
 .sketch-wrapper {
     display: flex;
     justify-content: center;
-    margin: 5px;
+    margin: 3em;
 }
 
 .personas-wrapper {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .persona-element {
-    margin: 50px, 50px;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-right: 3em;
+    margin-left: 3em;
     width: 500px;
-    height: 500px;
 }
 
 .storyboard-wrapper {
@@ -31,6 +34,9 @@ h1, h2, h3, h4 {
 }
 
 .storyboard-element {
-    margin: 30px, 50px;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-right: 3em;
+    margin-left: 3em;
     width: 300px;
 }
