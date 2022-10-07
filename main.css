@@ -1,5 +1,4 @@
 title {
-    margin: 10px;
     font-family: Helvetica, sans-serif;
     color: indigo;
 }
@@ -10,23 +9,19 @@ body {
 }
 
 h1 {
-    margin: 5px;
     font-size: 30px;
     color: indigo;
 }
 
 h2 {
-    margin: 5px;
     color: indigo;
 }
 
 h3 {
-    margin: 5px;
     color: indigo;
 }
 
 h4 {
-    margin: 5px;
     color: indigo;
 } 
 
@@ -37,11 +32,9 @@ h4 {
 }
 
 .persona-element {
-    margin: 5px;
 }
 
 .empathy-map {
-    margin: 5px;
 }
 
 .storyboard-wrapper {
