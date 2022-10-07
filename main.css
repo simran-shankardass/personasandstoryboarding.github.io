@@ -1,14 +1,11 @@
 body {
     font-family: Montserrat, sans-serif;
     color: black;
+    background-color: lightgray;
 }
 
 h1, h2, h3, h4 {
     color: purple;
-}
-
-h1 {
-    background-color: beige;
 }
 
 .sketch-wrapper {
@@ -25,7 +22,7 @@ h1 {
 
 .persona-element {
     display: flex;
-    align-items: center;
+    justify-content: center;
     margin-top: 1em;
     margin-bottom: 3em;
     margin-right: 3em;
