@@ -78,3 +78,11 @@ h6 {
 .user-description {
     font-size: smaller;
 }
+
+ul {
+    line-height: 150%;
+}
+
+ol {
+    line-height: 150%;
+}
