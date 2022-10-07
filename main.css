@@ -13,7 +13,7 @@ h1 {
 }
 
 h1, h2, h3, h4 {
-    color: purple;
+    color: indigo;
 }
 
 .row {
@@ -27,7 +27,7 @@ h1, h2, h3, h4 {
 }
 
 .column1a {
-    background-color: lavender;
+    background-color: gainsboro;
 }
 
 .column1b {
