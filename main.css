@@ -45,6 +45,7 @@ h1, h2, h3, h4 {
 
 .box {
     margin: 2em;
-    border: 5px solid grey;
+    padding: 2em;
+    border: 2px solid grey;
     border-radius: 1em;
   }
