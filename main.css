@@ -28,8 +28,12 @@ h6 {
 .column1a, .column1b {
     flex: 1 0 0%;
     max-width: 250px;
-    padding: 1rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
+
 
 .column1a {
     background-color: gainsboro;
@@ -45,7 +49,7 @@ h6 {
 }
 
 .sketch-wrapper {
-    margin: 1 rem;
+    margin: 1rem;
 }
 
 .personas-wrapper {
