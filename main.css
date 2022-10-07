@@ -3,12 +3,23 @@ body {
     color: black;
 }
 
+h1, h2 {
+    color: purple;
+}
+
 .row {
     display: flex;
 }
 
-.column {
-    flex: 70%;
+.column1 {
+    flex: 1 0 0%;
+    max-width: 200px;
+    padding: 10px;
+}
+  
+.column2 {
+    flex: 2 0 0%;
+    padding: 10px;
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
