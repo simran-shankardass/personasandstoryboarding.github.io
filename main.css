@@ -20,11 +20,18 @@ h1, h2, h3, h4 {
     display: flex;
 }
 
-.column1 {
+.column1a, .column1b {
     flex: 1 0 0%;
     max-width: 250px;
     padding: 1rem;
+}
+
+.column1a {
     background-color: lavender;
+}
+
+.column1b {
+    background-color: lavenderblush;
 }
   
 .column2 {
@@ -41,12 +48,12 @@ h1, h2, h3, h4 {
     flex-wrap: wrap;
 }
 
-.persona-element {
+.persona {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 1rem;
-    width: 500px;
+    width: 400px;
 }
 
 .storyboard-wrapper {
