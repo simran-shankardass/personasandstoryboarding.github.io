@@ -22,6 +22,7 @@ h1, h2, h3 {
 
 .column1 {
     flex: 1 0 0%;
+    max-width: 300px;
     padding: 10px;
     background-color: lavender;
 }
