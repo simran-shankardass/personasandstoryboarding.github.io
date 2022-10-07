@@ -22,7 +22,7 @@ h1, h2, h3, h4 {
 .persona-element {
     display: flex;
     align-items: center;
-    margin: 10px, 50px;
+    margin: 50px, 50px;
     width: 500px;
     height: 500px;
 }
@@ -34,8 +34,6 @@ h1, h2, h3, h4 {
 }
 
 .storyboard-element {
-    display: flex;
-    align-items: center;
-    margin: 10px, 50px;
+    margin: 30px, 50px;
     width: 300px;
 }
