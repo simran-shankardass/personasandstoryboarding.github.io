@@ -1,16 +1,45 @@
+body {
+    font-family: Helvetica, sans-serif;
+    color: purple;
+    text-align: center;
+}
+
 h1 {
     display: flex;
     align-items: center;
     font-size: 30px;
-    color: purple;
 }
 
-.storyboard-element {
+.personas-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.persona-element {
     margin: 50rem;
+    width: 500rem;
+    height: 500rem;
+}
+
+.empathy-map {
+    width: 500rem;
+    height: 500rem;
 }
 
 .storyboard-wrapper {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+}
+
+storyboard-element {
+    margin: 50rem;
+    width: 400rem;
+    height: 400rem;
+}
+
+.storyboard-image {
+    width: 400rem;
+    height: 400rem;
 }
